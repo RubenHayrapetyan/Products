@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">Products</string>
+
+  <string name="spisok_tovarov">Список товаров</string>
+  <string name="na_sklade">На складе</string>
+  <string name="data_dobavlenia">Дата добавления</string>
+  <string name="poisk_tovarov">Поиск товаров</string>
+  <string name="net_v_nalichii">Нет в наличии</string>
+  <string name="kolichestvo_tovara">Количество товара</string>
+  <string name="prinyat">Принять</string>
+  <string name="otmena">Отмена</string>
+  <string name="udalenie_tovara">Удаление товара</string>
+  <string name="remove_dialog_text">Вы действительно хотите удалить выбранный товар?</string>
+  <string name="net">Нет</string>
+  <string name="da">Да</string>
+</resources>

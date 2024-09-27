@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="purple_200">#FFBB86FC</color>
+  <color name="purple_500">#FF6200EE</color>
+  <color name="purple_700">#FF3700B3</color>
+  <color name="teal_200">#FF03DAC5</color>
+  <color name="teal_700">#FF018786</color>
+  <color name="black">#FF000000</color>
+  <color name="white">#FFFFFFFF</color>
+
+  <color name="tag_corner">#B2000000</color>
+  <color name="status_bar">#B1DCFC</color>
+  <color name="title_background">#B1DCFC</color>
+  <color name="products_list_background">#F6F6F6</color>
+
+  <!-- Search -->
+  <color name="products_search_focused_indicator">#6750A4</color>
+  <color name="products_search_unfocused_indicator">#49454F</color>
+  <color name="products_search_focused_container">#ffffff</color>
+  <color name="products_search_unfocused_container">#ffffff</color>
+  <color name="products_search_focused_label">#545457</color>
+
+  <!-- Dialog -->
+  <color name="amount_update_dialog_background">#E8EAF2</color>
+  <color name="delete_dialog_background">#E8EAF2</color>
+  <color name="dialog_warning">#435375</color>
+  <color name="dialog_button">#435375</color>
+  <color name="dialog_edit_icon">#6300DF</color>
+</resources>
